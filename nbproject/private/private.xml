@@ -3,10 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/CenaflixPodcast/src/DAO/UsuarioDAO.java</file>
-            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/CenaflixPodcast/src/Controladores/ControladorTelaLogin.java</file>
-            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/CenaflixPodcast/src/Controladores/ControladorTelaCadastrar.java</file>
-            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/CenaflixPodcast/src/DAO/ConexaoBancoDados.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/CenaflixPodcast/test/TesteModelo/TesteModelosJUnitTest.java</file>
         </group>
     </open-files>
 </project-private>
